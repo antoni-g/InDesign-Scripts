@@ -1,5 +1,5 @@
 # InDesign Scripts
-### antoni-g
+### author antoni-g
 
 ## Modify All Text
 
